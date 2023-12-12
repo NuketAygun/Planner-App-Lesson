@@ -22,8 +22,9 @@ body {
     padding: 60px;
   }
   
-  .description {
+  .content { /*description*/
     white-space: pre-wrap;
+    border-color: gray;
   }
   
   .time-block {
@@ -62,7 +63,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
+    background-color:#06aed5;
     color: white;
   }
   
@@ -70,4 +71,11 @@ body {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
   }
+  
+ .buttonIcon{
+    height: 20px;
+    width: 20px;
+   
+ }
+  
   
