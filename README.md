@@ -1,70 +1,68 @@
 # Planner-App-Lesson
-Üçüncü Taraf API'leri: İş Günü Planlayıcısı
-Senin görevin
-Kullanıcının, başlangıç kodunu değiştirerek günün her saatine ilişkin etkinlikleri kaydetmesine olanak tanıyan basit bir takvim uygulaması oluşturun. Bu uygulama tarayıcıda çalışacak ve jQuery tarafından desteklenen dinamik olarak güncellenen HTML ve CSS özelliğine sahip olacak.
+Building Planner App Lesson with JavaScript, Jquery and Bootstrap.
 
-Tarih ve saatle çalışmak için Day.js kitaplığını kullanmanız gerekir. Belgeleri dikkatlice okuduğunuzdan ve Day.js'yi tarayıcıda kullanmaya odaklandığınızdan emin olun.
+## Description
 
-Kullanıcı hikayesi
-Yoğun bir programı olan bir çalışan olarak
-Günlük planlayıcıya önemli olaylar eklemek İSTİYORUM
-Zamanımı etkili bir şekilde yönetebilmem için
-Kabul kriterleri
-Uygulama şunları yapmalıdır:
+This is a mini workday planner app.
 
-Kullanıcı planlayıcıyı açtığında geçerli günü takvimin üst kısmında görüntüleyin.
 
-Kullanıcı ekranı aşağı kaydırdığında standart çalışma saatleri için zaman blokları sunun.
+## Used Technologies
+HTML5
 
-Zaman bloğu görüntülendiğinde her zaman bloğunu geçmiş, şimdiki zaman ve geleceğe göre renkle kodlayın.
+CSS
 
-Kullanıcının bir zaman bloğunu tıklattığında bir etkinliğe girmesine izin ver
+JavaScript
 
-İlgili zaman diliminde kaydet düğmesine tıklandığında etkinliği yerel depolamaya kaydedin.
+Git
 
-Bir sayfanın yenilenmesi arasında etkinliklerin devam etmesi
+GitHub
 
-Aşağıdaki animasyon uygulamanın işlevselliğini göstermektedir:
+Visual Studio Code
 
-Kullanıcı, renk kodlu takvimdeki aralıklara tıklar ve etkinlikleri düzenler.
+API/DOM
 
-Notlandırma Gereksinimleri
-Bu ödev aşağıdaki kriterlere göre derecelendirilir:
+Jquery
 
-Teknik Kabul Kriterleri: %40
-Yukarıdaki kabul kriterlerinin tümüne ek olarak aşağıdakileri karşılar:
+Bootstrap
 
-Tarih ve saatle çalışmak için bir tarih yardımcı programı kitaplığı kullanır
-Dağıtım: %32
-Canlı URL'de dağıtılan uygulama
+## Installation
 
-Uygulama hatasız yükleniyor
+N/A
 
-Uygulama GitHub URL'si gönderildi
+## Usage
 
-GitHub deposu uygulama kodunu içerir
+* Display the current day at the top of the calender when a user opens the planner.
+ 
+* Present timeblocks for standard business hours when the user scrolls down.
+ 
+* Color-code each timeblock based on past, present, and future when the timeblock is viewed.
+ 
+* Allow a user to enter an event when they click a timeblock
 
-Uygulama Kalitesi: %15
-Uygulama kullanıcı deneyimi sezgiseldir ve gezinmesi kolaydır
+* Save the event in local storage when the save button is clicked in that timeblock.
 
-Uygulama kullanıcı arayüzü stili temiz ve gösterişlidir
+* Persist events between refreshes of a page
 
-Uygulama, ödev talimatlarında sağlanan maket işlevine benzer
 
-Depo Kalitesi: %13
-Deponun benzersiz bir adı var
+All my projects can be accessed at [GitHub](https://github.com/NuketAygun)
 
-Depo, dosya yapısı ve adlandırma kurallarına ilişkin en iyi uygulamaları takip eder
+GitHub address of  Planner-App-Lesson:
+ https://github.com/NuketAygun/Planner-App-Lesson
 
-Depo, sınıf/kimlik adlandırma kuralları, girintiler, kalite yorumları vb. için en iyi uygulamaları takip eder.
 
-Depo birden fazla açıklayıcı taahhüt mesajı içeriyor
 
-Depo, açıklama, ekran görüntüsü ve dağıtılan uygulamaya bağlantı içeren kaliteli README dosyasını içerir
 
-Gözden geçirmek
-İnceleme için aşağıdakileri göndermeniz gerekmektedir:
+Reach me via [Email](mailto:nukumoonday@gmail.com)
 
-Dağıtılan uygulamanın URL'si
 
-Benzersiz bir ad ve projeyi açıklayan README ile birlikte GitHub deposunun URL'si
+![Alt text](<Screenshot 2023-12-13 000718.png>)
+
+
+
+## Credits
+
+N/A
+
+## Licence
+
+Please refer to the LICENCE in the repo.
