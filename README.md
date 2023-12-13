@@ -49,6 +49,9 @@ All my projects can be accessed at [GitHub](https://github.com/NuketAygun)
 GitHub address of  Planner-App-Lesson:
  https://github.com/NuketAygun/Planner-App-Lesson
 
+GitHub Pages URL:
+  https://nuketaygun.github.io/Planner-App-Lesson/
+
 
 
 
