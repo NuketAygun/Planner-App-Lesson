@@ -58,8 +58,9 @@ GitHub Pages URL:
 Reach me via [Email](mailto:nukumoonday@gmail.com)
 
 
-![Alt text](<Screenshot 2023-12-13 000718.png>)!
-[Alt text](<Screenshot 2023-12-20 132035.png>)
+![Alt text](<Screenshot 2023-12-13 000718.png>)
+
+![Alt text](<Screenshot 2023-12-20 132035.png>)
 
 
 
